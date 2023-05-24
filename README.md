@@ -1,2 +1,2 @@
 # AdANNS
-Code repository for the paper - "Adaptive Representations for Semantic Search"
+Code repository for the paper - "AdANNS: A Framework for Adaptive Semantic Search"
