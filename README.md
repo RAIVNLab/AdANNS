@@ -1,4 +1,4 @@
-# AdANNS: A Framework for Adaptive Semantic Search
+# [AdANNS: A Framework for Adaptive Semantic Search](https://arxiv.org/abs/2305.19435)
 _Aniket Rege, Aditya Kusupati, Sharan Ranjit S, Alan Fan, Qingqing Cao, Sham M. Kakade, Prateek Jain, Ali Farhadi_
 
 Learned representations are used in multiple downstream tasks like web-scale search & classification. However, they are flat & rigid—information is diffused across dimensions and cannot be adaptively deployed without large post-hoc overhead. We propose the use of adaptive representations to improve approximate nearest neighbour search (ANNS) and introduce a new paradigm, AdANNS, to achieve it at scale leveraging matryoshka representations (MRs). We compare AdANNS to ANNS structures built on independently trained rigid representations (RRs).
